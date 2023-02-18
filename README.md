@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7DBF0,100:CDF0EA&height=300&section=header&text=%20Hi!(❁´◡`❁)&fontSize=90&animation=twinkling&fontColor=ffff)
 
-<h3 align="center">Goals for 2023</h3>
-<p align="center">아래 언어 공부하기!</p>
-
 <h3 align="center">I'm learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
