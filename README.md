@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7DBF0,100:CDF0EA&height=300&section=header&text=%20Hello!&fontSize=90&animation=twinkling&fontColor=888888)
