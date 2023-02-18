@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7DBF0,100:CDF0EA&height=300&section=header&text=%20Hello!&fontSize=90&animation=twinkling&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F7DBF0,100:CDF0EA&height=300&section=header&text=%20Hi! I am sieun &fontSize=90&animation=twinkling&fontColor=ffff)
 
 <h3 align="center">Goals for 2023</h3>
 <p align="center">아래 언어 공부하기!</p>
