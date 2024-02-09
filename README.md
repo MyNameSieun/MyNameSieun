@@ -19,3 +19,4 @@
   <a href="mailto:charm516@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=charm516@naver.com"/></a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
