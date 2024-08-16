@@ -1,4 +1,4 @@
-![header](<https://capsule-render.vercel.app/api?type=waving&color=0:F7DBF0,100:CDF0EA&height=300&section=header&text=%20Hi!(❁´◡`❁)&fontSize=90&animation=twinkling&fontColor=ffff>)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <h3 align="center">Tech Stack 🛠️</h3>
 <p align="center">
