@@ -10,9 +10,15 @@
 
 📫 You can contact me at this email [`charm516@naver.com`](mailto:charm516@naver.com)
 
----
+<br>
 
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-2e79c7?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-5fd3f3?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-3d3d3d?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Next.js Logo">
+
+
+<!--<img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-2e79c7?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-5fd3f3?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-3d3d3d?style=for-the-badge&logo=nextdotjs&logoColor=white"/>-->
 
 <!--
 <h3 align="center">Follow Me 🦢</h3>
