@@ -1,36 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=&vCenter=&random=&width=435&lines=A+knowledge-sharing+FE+developer)](https://git.io/typing-svg)
 
-<h3 align="center">Tech Stack 🛠️</h3>
-<p align="center">
-    <span>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    </span>
-    <span>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-    </span>
-    <span>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-    </span>
-    <span>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=React&logoColor=61DAFB"/>
-    </span>
-    <!-- <span>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-    </span> -->
-  <br>
-    <span>
-     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-    </span>
-    <!-- <span>
-      <img src="https://img.shields.io/badge/SASS-FFBE00?style=flat&logo=Sass&logoColor=black"/>
-    </span> -->
-    <span>
-      <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat&logo=styled%2Dcomponents&logoColor=white"/>
-    </span>
-</p>
+## 👋 Hi there!
 
-<h3 align="center">Follow Me 🦢</h3> 
+📍 Welcome to my github and here is my [`blog`](https://mynamesieun.github.io/)
+
+⭐️ I want to become a **Front-end developer**
+
+🌱 I’m currently learning `Typescript` and `Next.js`
+
+📫 You can contact me at this email [`charm516@naver.com`](mailto:charm516@naver.com)
+
+---
+
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-2e79c7?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-5fd3f3?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-3d3d3d?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<!--
+<h3 align="center">Follow Me 🦢</h3>
 <p align="center">
-  <a href="https://mynamesieun.github.io/"><img src="https://img.shields.io/badge/Blog-12100E?style=social&logo=blogger&logoColor=000000"/></a>&nbsp 
+  <a href="https://mynamesieun.github.io/"><img src="https://img.shields.io/badge/Blog-12100E?style=social&logo=blogger&logoColor=000000"/></a>&nbsp
   <a href="mailto:charm516@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=social&logo=Gmail&logoColor=EA4335"/></a>
-</p>
+</p> -->
